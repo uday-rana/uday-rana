@@ -3,8 +3,8 @@
 I'm a programming student interested in front-end web development and proficient in object-oriented programming. I'm currently looking to expand my knowledge of the front end.
 
 ### Familiar with:
-- HTML, CSS, Javascript
-- C, C++
+- HTML/CSS/Javascript
+- C/C++
 - SQL
 - Shell scripting
 - Git
