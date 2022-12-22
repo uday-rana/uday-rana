@@ -8,12 +8,16 @@ I'm a programming student interested in front-end web development and proficient
 - SQL
 - Shell scripting
 - Git
-
-### Currently learning:
 - Bootstrap
 - Sass
 - Python
+
+### Currently learning:
 - React
+- Node.js
+- Express.js
+- MongoDB
+- jQuery
 
 <!--
 **uday-rana/uday-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
