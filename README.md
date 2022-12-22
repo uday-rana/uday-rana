@@ -6,7 +6,7 @@ I'm a programming student enrolled at Seneca College. I'm currently learning web
 - HTML/CSS/Javascript
 - C/C++
 - SQL
-- Shell scripting
+- Bash
 - Git
 - Bootstrap
 - Sass
