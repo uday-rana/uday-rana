@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a programming student interested in front-end web development and proficient in object-oriented programming. I'm currently looking to expand my knowledge of the front end.
+I'm a programming student enrolled at Seneca College. I'm currently learning web development and object-oriented programming.
 
 ### Familiar with:
 - HTML/CSS/Javascript
