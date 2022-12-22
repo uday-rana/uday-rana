@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm a programming student enrolled at Seneca College. I'm currently learning web development and object-oriented programming.
+I'm a programming student enrolled at Seneca College. I'm currently learning web development, object-oriented programming, and database management.
 
 ### Familiar with:
 - HTML/CSS/Javascript
