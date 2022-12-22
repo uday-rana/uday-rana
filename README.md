@@ -13,6 +13,7 @@ I'm a programming student interested in front-end web development and proficient
 - Bootstrap
 - Sass
 - Python
+- React
 
 <!--
 **uday-rana/uday-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
