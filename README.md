@@ -5,7 +5,7 @@ I'm a programming student enrolled at Seneca College. I'm currently learning web
 
 -   👨‍💻 Check out my <a href="https://uday-rana.github.io">portfolio</a>!
 
-## Reach out:
+### Reach out:
 
 <a href="mailto:bc4w46yd7@mozmail.com">
 <img src="https://img.shields.io/badge/-E--Mail-EA4335?style=for-the-badge&logo=gmail&color=red&logoColor=white">
@@ -17,7 +17,7 @@ I'm a programming student enrolled at Seneca College. I'm currently learning web
 <img src="https://img.shields.io/badge/-LinkedIn-EA4335?style=for-the-badge&logo=linkedin&color=white&logoColor=blue">
 </a>
 
-## Familiar with:
+### Familiar with:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40"/></a>
@@ -30,7 +30,7 @@ I'm a programming student enrolled at Seneca College. I'm currently learning web
 <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" height="40"/></a>
 <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" height="40"/></a>
 
-## Currently learning:
+### Currently learning:
 
 <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" height="40"/></a>
 <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" height="40"/></a>
