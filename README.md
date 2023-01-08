@@ -17,7 +17,7 @@ I'm a programming student enrolled at Seneca College. I'm currently learning web
 <img src="https://img.shields.io/badge/-LinkedIn-EA4335?style=for-the-badge&logo=linkedin&color=white&logoColor=blue">
 </a>
 
-### Familiar with:
+### Languages/Frameworks:
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" height="40"/></a>
