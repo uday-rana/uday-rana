@@ -31,7 +31,7 @@ I'm a programming student enrolled at Seneca College. I'm currently learning web
 <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" title="Node.js" height="50"/></a>
 <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" height="50"></a>
 <a href="https://handlebarsjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" title="Handlebars.js" height="50"/></a>
-<a href="https://flask.palletsprojects.com/en/2.2.x/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="50"/></a>
 
  #### Currently learning:
 
