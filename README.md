@@ -35,13 +35,13 @@ I'm a programming student enrolled at Seneca College. I'm currently learning web
 <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/></a>
 
  ### Databases:
+<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" title="MongoDB" height="45"/></a>
 <a href="https://https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="45"/></a> 
 <a href="https://developer.oracle.com/technologies/databases.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle Database" height="45"/></a>
  
  #### Currently learning:
 <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" height="45"/></a>
 <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain.svg" title="jQuery" height="45"/></a>
-<a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" title="MongoDB" height="45"/></a>
 
 <!--
 **uday-rana/uday-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
