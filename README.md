@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Uday! </h1>
 <h3 align="center">Developer and student from Toronto</h3>
 
-I'm a programming student enrolled at Seneca College. I'm currently learning web development, object-oriented programming, and database management.
+I'm a programming student enrolled at Seneca College. I'm currently learning web development with React and Next.js.
 
 -   👨‍💻 Check out my <a href="https://uday-rana.github.io">portfolio</a>!
 
@@ -41,6 +41,7 @@ I'm a programming student enrolled at Seneca College. I'm currently learning web
  
  #### Currently learning:
 <a href="https://reactjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" height="45"/></a>
+<a href="https://nextjs.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title="Next.js" height="45"></a>
 
 <!--
 **uday-rana/uday-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
