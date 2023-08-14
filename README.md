@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Uday! </h1>
-<h3 align="center">Developer and student</h3>
+<h3 align="center">A software developer and student</h3>
 
 -   👨‍💻 Check out my <a href="https://uday-rana.github.io">portfolio</a>!
 
