@@ -1,8 +1,6 @@
 <h1 align="center">👋 Hi, I'm Uday! </h1>
 <h3 align="center">Developer and student</h3>
 
-I'm a programming student enrolled at Seneca College. I'm currently learning data structures & algorithms, and web development with React and Next.js.
-
 -   👨‍💻 Check out my <a href="https://uday-rana.github.io">portfolio</a>!
 
 ### Languages:
