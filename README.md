@@ -1,7 +1,20 @@
 <h1 align="center">👋 Hi, I'm Uday! </h1>
 <h3 align="center">A software developer and student</h3>
+<br />
+<p align="center">👨‍💻 Check out my <a href="https://uday-rana.github.io">portfolio</a>!</p>
+<p align="center">
+  <a href="mailto:bc4w46yd7@mozmail.com">
+  <img src="https://img.shields.io/badge/-E--Mail-EA4335?style=for-the-badge&logo=gmail&color=red&logoColor=white">
+  </a>
+  <a href="https://twitter.com/UdayRana21">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="@UdayRana21" />
+  </a>
+  <a href="https://www.linkedin.com/in/uday-rana/">
+  <img src="https://img.shields.io/badge/-LinkedIn-EA4335?style=for-the-badge&logo=linkedin&color=white&logoColor=blue">
+  </a>
+</p>
 
--   👨‍💻 Check out my <a href="https://uday-rana.github.io">portfolio</a>!
+## I've worked with...
 
 ### Languages
 
@@ -26,31 +39,19 @@
 #### Backend
 <a href="https://nodejs.org/en/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" title="Node.js" height="45"/></a>
 <a href="https://expressjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" title="Express" height="45"></a>
-<a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="45" title="Flask"/></a>
 <a href="https://handlebarsjs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" title="Handlebars.js" height="45"/></a>
 
 #### Testing
 
-<a href="https://jestjs.io/"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="45"/></a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
+<a href="https://jestjs.io/"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="45" title="Jest"/></a>
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" title="Cypress"/> </a>
 
 ### Databases
 
 <a href="https://https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="45"/></a> 
 <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" title="MongoDB" height="45"/></a>
 <a href="https://developer.oracle.com/technologies/databases.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle Database" height="45"/></a>
-
-### Reach out
-
-<a href="mailto:bc4w46yd7@mozmail.com">
-<img src="https://img.shields.io/badge/-E--Mail-EA4335?style=for-the-badge&logo=gmail&color=red&logoColor=white">
-</a>
-<a href="https://twitter.com/UdayRana21">
-<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="@UdayRana21" />
-</a>
-<a href="https://www.linkedin.com/in/uday-rana/">
-<img src="https://img.shields.io/badge/-LinkedIn-EA4335?style=for-the-badge&logo=linkedin&color=white&logoColor=blue">
-</a>
 
 <!--
 **uday-rana/uday-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
