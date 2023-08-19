@@ -44,7 +44,7 @@
 
 #### Testing
 
-<a href="https://jestjs.io/"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="45" title="Jest"/></a>
+<a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" title="Jest"/></a>
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" alt="cypress" width="40" height="40" title="Cypress"/> </a>
 
 ### Databases
