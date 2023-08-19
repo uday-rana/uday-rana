@@ -27,7 +27,7 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" height="45"/></a>
 <a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="Bash" height="45"/></a>
 
-### Web Development Frameworks / Libraries
+### Web Frameworks / Libraries
 
 #### Frontend
 
