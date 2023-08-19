@@ -45,7 +45,7 @@
 #### Testing
 
 <a href="https://jestjs.io/"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="45" title="Jest"/></a>
-<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40" title="Cypress"/> </a>
+<a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://www.cypress.io/images/layouts/cypress-logo.svg" alt="cypress" width="40" height="40" title="Cypress"/> </a>
 
 ### Databases
 
