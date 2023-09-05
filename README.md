@@ -1,7 +1,6 @@
 <h1 align="center">👋 Hi, I'm Uday! </h1>
 <h3 align="center">A software developer and student</h3>
 <br />
-<p align="center">👨‍💻 Check out my <a href="https://uday-rana.github.io">portfolio</a>!</p>
 <p align="center">
   <a href="mailto:bc4w46yd7@mozmail.com">
   <img src="https://img.shields.io/badge/-E--Mail-EA4335?style=for-the-badge&logo=gmail&color=red&logoColor=white">
