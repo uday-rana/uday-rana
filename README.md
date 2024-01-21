@@ -2,9 +2,6 @@
   <a href="mailto:bc4w46yd7@mozmail.com">
   <img src="https://img.shields.io/badge/-E--Mail-EA4335?style=for-the-badge&logo=gmail&color=red&logoColor=white">
   </a>
-  <a href="https://twitter.com/UdayRana21">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=FFFFFF" alt="@UdayRana21" />
-  </a>
   <a href="https://www.linkedin.com/in/uday-rana/">
   <img src="https://img.shields.io/badge/-LinkedIn-EA4335?style=for-the-badge&logo=linkedin&color=white&logoColor=blue">
   </a>
