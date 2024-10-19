@@ -1,7 +1,8 @@
-<h1 align="center">👋 Hi, I'm Uday </h1>
-<h3 align="center">A computer programming student</h3>
+<div align="center">
+<h1>👋 Hi, I'm Uday </h1>
+<h3>A computer programming student</h3>
 <br />
-<p align="center">
+<p>
   <a href="mailto:bc4w46yd7@mozmail.com">
   <img src="https://img.shields.io/badge/-E--Mail-EA4335?style=for-the-badge&logo=gmail&color=red&logoColor=white">
   </a>
@@ -48,6 +49,7 @@
 <a href="https://https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" height="45"/></a> 
 <a href="https://www.mongodb.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" title="MongoDB" height="45"/></a>
 <a href="https://developer.oracle.com/technologies/databases.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle Database" height="45"/></a>
+</div>
 
 <!--
 **uday-rana/uday-rana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
