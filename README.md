@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Uday </h1>
-<h3 align="center">A software developer and student</h3>
+<h3 align="center">A computer programming student</h3>
 <br />
 <p align="center">
   <a href="mailto:bc4w46yd7@mozmail.com">
