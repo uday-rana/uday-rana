@@ -55,7 +55,6 @@
 <a href="https://mongoosejs.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" title="Mongoose" height="45"></a>
 <a href="https://www.prisma.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" title="Prisma" height="45"></a>
 <a href="https://oauth.net/2/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oauth/oauth-original.svg" title="OAuth 2.0" height="45"/></a>
-<a href="https://www.json.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" title="JSON" height="45"/></a>
 
 ### Databases
 
