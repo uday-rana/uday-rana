@@ -79,6 +79,7 @@
 
 <a href="https://jestjs.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="45" title="Jest"/></a>
 <a href="https://www.cypress.io"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" title="Cypress" height="45"/></a>
+<a href="https://junit.org/junit5/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original.svg" title="Junit" height="45"/></a>
 
 ### Operating Systems
 
